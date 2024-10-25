@@ -227,13 +227,15 @@ html {
         grid-template-columns: 1fr;                        /* Single column for small screens */
     }
     .logo h2 {
+        padding: 10px;
         font-size: 1.25rem;               /* Responsive font size */
     }
     .search {
         width: 80%;
     }
     .search input {
-        padding: 0 1.25rem;            /* Responsive padding */
+        padding: 0 1.25rem; 
+        margin-bottom:20px   /* Responsive padding */
     } 
     .fa-bell {
         margin-right: 0.3125rem;        /* Responsive margin */

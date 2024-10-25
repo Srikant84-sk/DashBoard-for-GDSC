@@ -24,6 +24,7 @@ html {
 }
 
 .logo h2 {
+    padding: 3px;
     margin: 0.2rem 0 0.75rem;        /* Adjusted for rem */
     font-size: 2rem;                     /* Responsive font size */
     color: #008b8b;
